@@ -5,7 +5,7 @@
 ## About me
 
 <p align='left'>
-  I'm a data engineer, I'm from Brazil, living in Juiz de Fora/MG currently working at Compasso UOL but allocated at UOLCS.
+  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compasso UOL but allocated at UOLCS.
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fearruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fearruda/)](https://www.linkedin.com/in/fearruda/)
