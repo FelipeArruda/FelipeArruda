@@ -5,7 +5,7 @@
 ## About me
 
 <p align='left'>
-  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compasso UOL but allocated at PagBank.
+  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compasso UOL but allocated at <a href="https://pagseguro.uol.com.br/" target="_blank">PagBank</a>. 
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fearruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fearruda/)](https://www.linkedin.com/in/fearruda/)
@@ -24,10 +24,10 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/FelipeArruda/FelipeArruda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArruda&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/FelipeArruda/FelipeArruda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeArruda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Felipe Arruda GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/FelipeArruda">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeArruda&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArruda&layout=compact&langs_count=7"/>
+
+</div>
 
