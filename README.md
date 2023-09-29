@@ -29,7 +29,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeArruda&show_icons=true&include_all_commits=true&count_private=true">
   </a>
   <a href="https://github.com/FelipeArruda">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeArruda">
+    <img height="180em" src="https://github-readme-streak-stats-orpin.vercel.app?user=FelipeArruda&date_format=j%2Fn%5B%2FY%5D">
   </a>
 </div>
 
