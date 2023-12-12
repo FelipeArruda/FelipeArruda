@@ -5,7 +5,7 @@
 ## About me
 
 <p align='left'>
-  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compasso UOL but allocated at <a href="https://pagseguro.uol.com.br/" target="_blank">PagBank</a>. 
+  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at <a href="https://compass.uol/en/home/" target="_blank">Compass UOL</a>. 
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fearruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fearruda/)](https://www.linkedin.com/in/fearruda/)
