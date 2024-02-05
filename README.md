@@ -1,36 +1,29 @@
-<h1 align='center'>
-  Howdy! I'm Felipe Arruda 🤠
-</h1>
+Hi 👋 I'm Felipe Arruda
+==============================
 
-## About me
+I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compass UOL.
 
-<p align='left'>
-  I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at <a href="https://compass.uol/en/home/" target="_blank">Compass UOL</a>. 
+* 🌍  I'm based in Brazil
+* 🖥️  See my portfolio at [here](https://www.felipearruda.dev)
+* ✉️  You can contact me at [felipearrudajf@gmail.com](mailto:felipearrudajf@gmail.com)
+* 🧠  I'm learning Django and Databricks
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-fearruda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fearruda/)](https://www.linkedin.com/in/fearruda/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipearrudajf@gmail.com)](mailto:felipearrudajf@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-felipearrudaa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/felipearrudaa/?hl=pt-br)](https://instagram.com/felipearrudaa)
 
-## Skills 
+### Socials
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=mysql)
-![Oracle](https://img.shields.io/badge/-Oracle-FF0000?style=flat-square&logo=oracle)
+<p align="left"> <a href="https://www.github.com/FelipeArruda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/fearruda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/fearruda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
 
-## GitHub Stats
+<b>My GitHub Stats</b>
 
-<div align="center">
-  <a href="https://github.com/FelipeArruda">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeArruda&show_icons=true&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/FelipeArruda">
-    <img height="180em" src="https://github-readme-streak-stats-orpin.vercel.app?user=FelipeArruda&date_format=j%2Fn%5B%2FY%5D">
-  </a>
-</div>
+<a href="http://www.github.com/FelipeArruda"><img src="https://github-readme-stats.vercel.app/api?username=FelipeArruda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="FelipeArruda's GitHub stats" /></a>
 
-
+<a href="http://www.github.com/FelipeArruda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeArruda&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
