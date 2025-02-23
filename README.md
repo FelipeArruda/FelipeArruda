@@ -1,7 +1,7 @@
 Hi 👋 I'm Felipe Arruda
 ==============================
 
-I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at Compass UOL.
+I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at CI&T.
 
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [here](https://www.felipearruda.dev.br)
