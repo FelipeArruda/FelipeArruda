@@ -4,7 +4,7 @@ Hi 👋 I'm Felipe Arruda
 I'm a data engineer from Brazil, living in Juiz de Fora/MG currently working at CI&T.
 
 * 🌍  I'm based in Brazil
-* 🖥️  See my portfolio at [here](https://www.felipearruda.dev.br)
+* 🖥️  See my portfolio at [here](https://felipearruda.dev.br/)
 * ✉️  You can contact me at [felipearrudajf@gmail.com](mailto:felipearrudajf@gmail.com)
 * 🧠  I'm learning Django and Databricks
 
